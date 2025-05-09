@@ -1,7 +1,7 @@
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="techStuffs/greets.png" alt="greeting">
+    <img src="techStuffs/greets.svg" alt="greeting">
 </div>
 
 
