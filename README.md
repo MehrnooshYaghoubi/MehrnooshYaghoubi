@@ -1,8 +1,10 @@
 ![meow](https://i.pinimg.com/originals/41/85/84/418584e1566e9536a8cc76d53b92fd1d.gif)
 
+### 👋 Hi, I'm Mehrnoosh!  
+I'm a **Computer Science Student** passionate about technology, creativity, and problem-solving.  
+I love exploring new tools, frameworks, and languages to turn ideas into reality. Whether it's coding, designing, or collaborating, I'm always up for a challenge! 🚀  
 
-# Tech Stuffs
-Below are some cool representations of programming languages and technologies:
+---
 
 ## Programming Languages and Technologies
 
