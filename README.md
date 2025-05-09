@@ -1,6 +1,10 @@
 [greeting](Greeting.svg)
 # Tech Stuffs
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="techStuffs/Greeting.svg" alt="greeting">
+</div>
+
 Below are some cool representations of programming languages and technologies:
 
 ## Programming Languages and Technologies
