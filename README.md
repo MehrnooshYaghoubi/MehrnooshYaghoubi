@@ -1,4 +1,5 @@
-![meow](https://i.pinimg.com/originals/41/85/84/418584e1566e9536a8cc76d53b92fd1d.gif)
+
+![new](https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif)
 
 ### 👋 Hi, I'm Mehrnoosh!  
 I'm a **Computer Science Student** passionate about technology, creativity, and problem-solving.  
