@@ -1,7 +1,7 @@
 # Tech Stuffs
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="techStuffs/Greeting.svg" alt="greeting" width= "200">
+    <img src="techStuffs/Greeting.svg" alt="greeting" width= "500">
 </div>
 
 Below are some cool representations of programming languages and technologies:
