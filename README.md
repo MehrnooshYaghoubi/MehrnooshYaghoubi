@@ -5,30 +5,29 @@
 I'm a **Computer Science Student** passionate about technology, creativity, and problem-solving.  
 I love exploring new tools, frameworks, and languages to turn ideas into reality. Whether it's coding, designing, or collaborating, I'm always up for a challenge! 🚀  
 
----
-
-
-(i have to make here clean :> )
+<div>
+    <img src="assets/br.gif" alt="Break">
+</div>
 
 ## Programming Languages and Technologies
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="images/Group%202.svg" alt="Group 2" width="45">
-    <img src="images/Group%203.svg" alt="Group 3" width="45">
-    <img src="images/Group%204.svg" alt="Group 4" width="45">
-    <img src="images/Group%207.svg" alt="Group 7" width="45">
-    <img src="images/Group%208.svg" alt="Group 8" width="45">
-    <img src="images/Group%209.svg" alt="Group 9" width="45">
-    <img src="images/Group%2010.svg" alt="Group 10" width="45">
-    <img src="images/Group%2012.svg" alt="Group 12" width="45">
-    <img src="images/Group%2031.svg" alt="Group 31" width="45">
-    <img src="images/Group%2035.svg" alt="Group 35" width="45">
-    <img src="images/Group%2036.svg" alt="Group 36" width="45">
-    <img src="images/Group%2038.svg" alt="Group 38" width="45">
-    <img src="images/Group%2040.svg" alt="Group 40" width="45">
-    <img src="images/Group%2041.svg" alt="Group 41" width="45">
-    <img src="images/Group%2084.svg" alt="Group 84" width="45">
-    <img src="images/Group%2085.svg" alt="Group 85" width="45">
-    <img src="images/Group%2087.svg" alt="Group 87" width="45">
-    <img src="images/Group%2089.svg" alt="Group 89" width="45">
+    <img src="assets/Group%202.svg" alt="Group 2" width="45">
+    <img src="assets/Group%203.svg" alt="Group 3" width="45">
+    <img src="assets/Group%204.svg" alt="Group 4" width="45">
+    <img src="assets/Group%207.svg" alt="Group 7" width="45">
+    <img src="assets/Group%208.svg" alt="Group 8" width="45">
+    <img src="assets/Group%209.svg" alt="Group 9" width="45">
+    <img src="assets/Group%2010.svg" alt="Group 10" width="45">
+    <img src="assets/Group%2012.svg" alt="Group 12" width="45">
+    <img src="assets/Group%2031.svg" alt="Group 31" width="45">
+    <img src="assets/Group%2035.svg" alt="Group 35" width="45">
+    <img src="assets/Group%2036.svg" alt="Group 36" width="45">
+    <img src="assets/Group%2038.svg" alt="Group 38" width="45">
+    <img src="assets/Group%2040.svg" alt="Group 40" width="45">
+    <img src="assets/Group%2041.svg" alt="Group 41" width="45">
+    <img src="assets/Group%2084.svg" alt="Group 84" width="45">
+    <img src="assets/Group%2085.svg" alt="Group 85" width="45">
+    <img src="assets/Group%2087.svg" alt="Group 87" width="45">
+    <img src="assets/Group%2089.svg" alt="Group 89" width="45">
 </div>
