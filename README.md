@@ -2,8 +2,7 @@
 ![new](https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif)
 
 ## Hi, I'm Mehrnoosh :>  
-I'm a **Computer Science Student** passionate about technology, creativity, and problem-solving.  
-I love exploring new tools, frameworks, and languages to turn ideas into reality. Whether it's coding, designing, or collaborating, I'm always up for a challenge! 🚀  
+I'm a **Computer Science Student** passionate about technology, creativity, and problem-solving. I love exploring new tools, frameworks, and languages to turn ideas into reality. Whether it's coding, designing, or collaborating, I'm always up for a challenge! 🚀  
 
 <div>
     <img src="assets/br.gif" alt="Break">
