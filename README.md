@@ -28,6 +28,5 @@ I love exploring new tools, frameworks, and languages to turn ideas into reality
     <img src="assets/Group%2041.svg" alt="Group 41" width="45">
     <img src="assets/Group%2084.svg" alt="Group 84" width="45">
     <img src="assets/Group%2085.svg" alt="Group 85" width="45">
-    <img src="assets/Group%2087.svg" alt="Group 87" width="45">
     <img src="assets/Group%2089.svg" alt="Group 89" width="45">
 </div>
